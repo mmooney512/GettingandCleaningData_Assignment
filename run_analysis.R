@@ -101,9 +101,9 @@ x_mean_std <- select(x_all, c(std_mean_cols,562,563))
 # with the activity label
 
 x_mean_std <- x_mean_std %>% mutate(activity = as.character(factor(activity
-											  ,levels=1:6
-											  ,labels=activity_labels$V2
-											)))
+								,levels=1:6
+								,labels=activity_labels$V2
+								)))
 
 
 
