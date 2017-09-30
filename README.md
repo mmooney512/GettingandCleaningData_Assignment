@@ -1,6 +1,6 @@
 ---
 title: "Getting and Cleaning Data - Week 4 Assignment"
-output: html_document
+output: md_document
 ---
 
 ## Getting and Cleaning Data - Week 4 Assignment
