@@ -37,23 +37,23 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 ### Measurements
-*time Body Acceleration-XYZ
-*time Gravity Acceleration-XYZ
-*time Body AccelerationJerk-XYZ
-*time Body Gyro-XYZ
-*time Body GyroJerk-XYZ
-*time Body AccelerationMag
-*time Gravity AccelerationMag
-*time Body Acceleration Jerk Mag 
-*time Body GyroMag
-*time Body GyroJerkMag
-*f Body Acceleration-XYZ
-*f Body AccelerationJerk-XYZ
-*f Body Gyro-XYZ
-*f Body AccelerationMag
-*f Body Acceleration Jerk Mag 
-*f Body GyroMag
-*f Body GyroJerkMag
+* time Body Acceleration-XYZ
+* time Gravity Acceleration-XYZ
+* time Body AccelerationJerk-XYZ
+* time Body Gyro-XYZ
+* time Body GyroJerk-XYZ
+* time Body AccelerationMag
+* time Gravity AccelerationMag
+* time Body Acceleration Jerk Mag 
+* time Body GyroMag
+* time Body GyroJerkMag
+* f Body Acceleration-XYZ
+* f Body AccelerationJerk-XYZ
+* f Body Gyro-XYZ
+* f Body AccelerationMag
+* f Body Acceleration Jerk Mag 
+* f Body GyroMag
+* f Body GyroJerkMag
 
 ### Data Summerization:
 The set of variables that were estimated from these signals are: 
